@@ -107,4 +107,4 @@ plt.show()
 
 
 # RESULT   
-Thus, the Titanic dataset was successfully analyzed and visualized using Python.
+The Titanic dataset was successfully cleaned, analyzed, and visualized using Python. Missing values and outliers were handled, and relationships between different variables were examined using graphs and statistical methods.
