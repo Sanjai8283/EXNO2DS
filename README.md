@@ -104,7 +104,8 @@ plt.show()
 <img width="396" height="342" alt="image" src="https://github.com/user-attachments/assets/98e558bb-3838-42e3-abd8-8b4f411f3c08" />
 <img width="616" height="518" alt="image" src="https://github.com/user-attachments/assets/83bf31df-859e-4a0a-af57-c18f95075f3e" />
 
-
+# Summary
+This program performs EDA on the Titanic dataset by handling missing values, removing outliers using the IQR method, and visualizing data using boxplots, countplots, distribution plots, cross-tabulation, and a correlation heatmap. It helps understand passenger characteristics and survival patterns.
 
 # RESULT   
-The Titanic dataset was successfully cleaned, analyzed, and visualized using Python. Missing values and outliers were handled, and relationships between different variables were examined using graphs and statistical methods.
+The Program and The Output has been sucessfully Verified along with the Visualization .
